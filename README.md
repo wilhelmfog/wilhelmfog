@@ -1,16 +1,23 @@
-## Hi there 👋
+# Infrastructure & Security Engineer
 
-<!--
-**wilhelmfog/wilhelmfog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build secure and resilient infrastructure with a focus on networking, privacy, and system control.
 
-Here are some ideas to get you started:
+## 🔧 Core Areas
+- Networking & Secure Tunneling (VLESS + Reality)
+- Self-hosted Infrastructure
+- Linux Systems & Automation
+- OSINT & Risk Intelligence (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Current Projects
+- Secure Communication Node (VLESS + Reality)
+- Private Infrastructure for Legal Practice (in progress)
+- OSINT Sentinel Core (in progress)
+
+## ⚙️ Tech Stack
+- Linux (Ubuntu/Debian)
+- Docker / Docker Compose
+- Networking (TCP/TLS)
+- Python (automation)
+
+## 🧠 Approach
+I focus on building systems that prioritize control, reliability, and privacy over convenience.
